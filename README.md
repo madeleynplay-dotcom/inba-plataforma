@@ -25,3 +25,5 @@ Este repositorio contiene un prototipo de interfaz (frontend) con datos ficticio
 
 ## Responsable de presentación
 Madeleyn Franco
+
+Actualización: se vuelve a ejecutar la publicación de GitHub Pages tras configurar la fuente de despliegue como GitHub Actions.
